@@ -23,3 +23,7 @@ I will update this repository regularly with notes, projects, and experiments.
 - Week 1: Git & GitHub basics
 - Week 2: Java fundamentals
 
+## Resources
+- GitHub Docs
+- FreeCodeCamp
+- LeetCode
