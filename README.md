@@ -18,3 +18,8 @@ This repository documents my continuous learning journey in software development
 
 ## Progress
 I will update this repository regularly with notes, projects, and experiments.
+
+## Weekly Plan
+- Week 1: Git & GitHub basics
+- Week 2: Java fundamentals
+
